@@ -1,2 +1,2 @@
-# learning-docker-standalone
+# Learning Docker Engine
 learning-docker-standalone notes
