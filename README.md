@@ -1,2 +1,2 @@
-# Learning Docker Engine
-learning-docker-standalone notes
+# Learning Docker Engine Standalone
+Docker Deployment Scripts
